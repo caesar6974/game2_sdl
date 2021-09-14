@@ -1,0 +1,297 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# ����ũ ����Ÿ���̽�, Wed Sep 15 08:49:44 2021
+�� ǥ��
+# ����
+
+# �ڵ�
+<D = $(patsubst %/,%,$(dir $<))
+# �ڵ�
+?F = $(notdir $?)
+# ����ũ����
+MAKEFLAGS = Rrqp
+# ȯ��
+VSCODE_LOG_NATIVE = false
+# �ڵ�
+?D = $(patsubst %/,%,$(dir $?))
+# �ڵ�
+@D = $(patsubst %/,%,$(dir $@))
+# ȯ��
+HOMEDRIVE = C:
+# �ڵ�
+@F = $(notdir $@)
+# �ڵ�
+^D = $(patsubst %/,%,$(dir $^))
+# ����ũ����
+CURDIR := c:/Users/ericw/Desktop/game2_sdl
+# �⺻��
+SHELL := sh.exe
+# ȯ��
+WINDIR = C:\WINDOWS
+# ȯ��
+VSCODE_NLS_CONFIG = {"locale":"ko","availableLanguages":{},"_languagePackSupport":true}
+# ȯ��
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# ȯ��
+ONEDRIVE = C:\Users\ericw\OneDrive
+# ȯ��
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# ����ũ���� (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# ȯ��
+TMP = C:\Users\ericw\AppData\Local\Temp
+# ȯ��
+VSCODE_VERBOSE_LOGGING = true
+# ȯ��
+PROGRAMW6432 = C:\Program Files
+# ȯ��
+PROGRAMDATA = C:\ProgramData
+# ȯ��
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-40d959c 
+1-1f7c-4d9b-9dcb-543d8ca9345b-sock
+# ȯ��
+VSCODE_CWD = C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code
+# ȯ��
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Users\ericw\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ericw\AppData\Local\Programs\Python\Python39\;C:\Users\ericw\AppData\Local\Microsoft\WindowsApps;C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ericw\.dotnet\tools;C:\Users\ericw\AppData\Local\GitHubDesktop\bin;C:\Program Files\CMake\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files (x86)\GnuWin32\bin;
+# ȯ��
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# ȯ��
+PROCESSOR_ARCHITECTURE = x86
+# ȯ��
+USERPROFILE = C:\Users\ericw
+# ȯ��
+ALLUSERSPROFILE = C:\ProgramData
+# ȯ��
+VSCODE_LOG_STACK = false
+# ȯ��
+NUMBER_OF_PROCESSORS = 4
+# ȯ��
+ELECTRON_RUN_AS_NODE = 1
+# �⺻��
+.FEATURES := target-specific order-only second-expansion else-if archives
+# �ڵ�
+%F = $(notdir $%)
+# ȯ��
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15560_IOVDMNAFPPLWLJKD
+# ȯ��
+VSCODE_PIPE_LOGGING = true
+# ȯ��
+COMPUTERNAME = DESKTOP-3USSUI6
+# ȯ��
+PROGRAMFILES = C:\Program Files (x86)
+# ȯ��
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# ȯ��
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# ȯ��
+USERNAME = ericw
+# ȯ��
+PUBLIC = C:\Users\Public
+# ȯ��
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# ȯ��
+VSCODE_CODE_CACHE_PATH = C:\Users\ericw\AppData\Roaming\Code\CachedData\e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff
+# ȯ��
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# ȯ��
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# ȯ��
+LOGONSERVER = \\DESKTOP-3USSUI6
+# ȯ��
+ONEDRIVECONSUMER = C:\Users\ericw\OneDrive
+# ȯ��
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# ȯ��
+USERDOMAIN = DESKTOP-3USSUI6
+# �⺻��
+MAKE = $(MAKE_COMMAND)
+# �⺻��
+MAKECMDGOALS := all
+# ȯ��
+JAVA_HOME = C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25
+# �⺻��
+MAKE_VERSION := 3.81
+# ����ũ����
+.DEFAULT_GOAL := all
+# ȯ��
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# �ڵ�
+%D = $(patsubst %/,%,$(dir $%))
+# ȯ��
+LOCALAPPDATA = C:\Users\ericw\AppData\Local
+# ȯ��
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# �⺻��
+MAKE_COMMAND := make.exe
+# ȯ��
+PROCESSOR_ARCHITEW6432 = AMD64
+# �⺻��
+.VARIABLES := 
+# �ڵ�
+*F = $(notdir $*)
+# ȯ��
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+# ȯ��
+OS = Windows_NT
+# ȯ��
+VSCODE_IPC_HOOK = \\.\pipe\89cce9451ee87d711da293ebe2020774-1.60.0-main-sock
+# ȯ��
+HOMEPATH = \Users\ericw
+# ȯ��
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# ȯ��
+PROMPT = $P$G
+# ȯ��
+MFLAGS = -Rrqp
+# �ڵ�
+*D = $(patsubst %/,%,$(dir $*))
+# ȯ��
+SYSTEMROOT = C:\WINDOWS
+# �ڵ�
++D = $(patsubst %/,%,$(dir $+))
+# �ڵ�
++F = $(notdir $+)
+# ȯ��
+APPDATA = C:\Users\ericw\AppData\Roaming
+# ȯ��
+TEMP = C:\Users\ericw\AppData\Local\Temp
+# ȯ��
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# �⺻��
+MAKEFILES := 
+# �ڵ�
+<F = $(notdir $<)
+# ȯ��
+LC_ALL = C
+# �ڵ�
+^F = $(notdir $^)
+# �⺻��
+SUFFIXES := 
+# ȯ��
+SYSTEMDRIVE = C:
+# ȯ��
+SESSIONNAME = Console
+# ȯ��
+PROCESSOR_REVISION = 1801
+# ȯ��
+MAKELEVEL := 0
+# ȯ��
+LANG = C
+# ȯ��
+PROCESSOR_LEVEL = 23
+# ȯ��
+VSCODE_PID = 15560
+# ȯ��
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-3USSUI6
+# variable set hash-table stats:
+# Load=89/1024=9%, Rehash=0, Collisions=9/111=8%
+
+# Pattern-specific Variable Values
+
+# ������ ���� ���� ������ �����ϴ�.
+
+# ���丮
+
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (Ű C:/WINDOWS/System32/WindowsPowerShell/v1.0/, ����ð� 1616148895): 33 ����, 0�� �Ұ���.
+# C:\WINDOWS\System32\Wbem (Ű C:/WINDOWS/System32/Wbem, ����ð� 1629198503): 173 ����, 0�� �Ұ���.
+# . (Ű c:/Users/ericw/Desktop/game2_sdl, ����ð� 1631662614): 6 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\Programs\Python\Python39\ (Ű C:/Users/ericw/AppData/Local/Programs/Python/Python39/, ����ð� 1616728892): 20 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\GitHubDesktop\bin (Ű C:/Users/ericw/AppData/Local/GitHubDesktop/bin, ����ð� 1628427462): 4 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\Microsoft\WindowsApps (Ű C:/Users/ericw/AppData/Local/Microsoft/WindowsApps, ����ð� 1629332495): 12 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\Programs\Python\Python39\Scripts\ (Ű C:/Users/ericw/AppData/Local/Programs/Python/Python39/Scripts/, ����ð� 1630649893): 42 ����, 0�� �Ұ���.
+# C:\Program Files\dotnet\ (Ű C:/Program Files/dotnet/, ����ð� 1621480924): 10 ����, 0�� �Ұ���.
+# C:\WINDOWS\System32\OpenSSH\: stat�� �� �� �������ϴ�.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (Ű C:/Program Files (x86)/Common Files/Oracle/Java/javapath, ����ð� 1627128184): 5 ����, 0�� �Ұ���.
+# C:\WINDOWS (Ű C:/WINDOWS, ����ð� 1631261225): 111 ����, 0�� �Ұ���.
+# C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin (Ű C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin, ����ð� 1631453165): 58 ����, 0�� �Ұ���.
+# C:\Program Files\Git\cmd (Ű C:/Program Files/Git/cmd, ����ð� 1621904111): 8 ����, 0�� �Ұ���.
+# C:\WINDOWS\system32 (Ű C:/WINDOWS/system32, ����ð� 1630654638): 2885 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code\bin (Ű C:/Users/ericw/AppData/Local/Programs/Microsoft VS Code/bin, ����ð� 1630629361): 4 ����, 0�� �Ұ���.
+# C:\Program Files\CMake\bin (Ű C:/Program Files/CMake/bin, ����ð� 1630459288): 8 ����, 0�� �Ұ���.
+# C:\Users\ericw\.dotnet\tools: stat�� �� �� �������ϴ�.
+# C:\Program Files (x86)\GnuWin32\bin (Ű C:/Program Files (x86)/GnuWin32/bin, ����ð� 1631454702): 5 ����, 0�� �Ұ���.
+
+# 3384 ����, 0�� impossibilities in 18 directories.
+
+# Implicit Rules
+
+# ������ ��Ģ ����.
+
+# � 
+���
+
+all:
+#  ������ Ÿ��.
+#  ������ ��Ģ Ž���� �Ϸ���� �ʾҽ��ϴ�.
+#  ������/���� ���� ����: `'
+#  ������ �������� �ʽ��ϴ�.
+#  ������ ���ŵǾ����ϴ�.
+#  ���ŵ� �ʿ䰡 ���� (-q ������).
+# �ڵ�
+# @ := all
+# �ڵ�
+# % := 
+# �ڵ�
+# * := 
+# �ڵ�
+# + := 
+# �ڵ�
+# | := 
+# �ڵ�
+# < := 
+# �ڵ�
+# ^ := 
+# �ڵ�
+# ? := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/10=10%
+#  ������ ���ɾ� (`makefile'����, 2��° ��):
+	g++ -Isrc/Include -Lsrc/lib -o build/game src/source/*.cpp -lmingw32 -lSDL2main -lSDL2 
+	
+
+# Ÿ���� �ƴ�:
+.DEFAULT:
+#  ������ ��Ģ Ž���� �Ϸ���� �ʾҽ��ϴ�.
+#  ���� �ð��� ���� �˻���� �ʾ���.
+#  ������ ���ŵ��� �ʾҽ��ϴ�.
+
+# Ÿ���� �ƴ�:
+makefile:
+#  ������ ��Ģ Ž���� �Ϸ�Ǿ����ϴ�.
+#  ������ ���� 2021-09-15 08:49:09
+#  ������ ���ŵǾ����ϴ�.
+#  ���������� ���ŵ�.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Ÿ���� �ƴ�:
+.SUFFIXES:
+#  ������ ��Ģ Ž���� �Ϸ���� �ʾҽ��ϴ�.
+#  ���� �ð��� ���� �˻���� �ʾ���.
+#  ������ ���ŵ��� �ʾҽ��ϴ� 
+.
+
+# files hash-table stats:
+# Load=4/1024=0%, Rehash=0, Collisions=0/17=0%
+# VPATH Ž�� ���
+
+# `vpath' Ž�� ��ΰ� ����.
+
+# �Ϲ����� (`VPATH' ����) Ž�� ��ΰ� ����.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# ����ũ ����Ÿ ���̽� ��ħ, Wed Sep 15 08:49:44 2021
+����
+ 

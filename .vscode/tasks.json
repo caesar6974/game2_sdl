@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "SDL2",
+			"command": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gcc.exe",
+			"args": [
+				"-g",
+				"src\\*.cpp",
+				"-o",
+				"build\\game.exe",
+				"-IC:C:\\Users\\ericw\\Downloads\\sdl\\SDL2-2.0.16\\i686-w64-mingw32\\include",
+				"-LC:C:\\Users\\ericw\\Downloads\\sdl\\SDL2-2.0.16\\i686-w64-mingw32\\lib",
+				"-lmingw32",
+				"-lSDL2main",
+				"-lSDL2",
+				"-mwindows"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
