@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# ����ũ ����Ÿ���̽�, Wed Sep 15 08:49:44 2021
+# ����ũ ����Ÿ���̽�, Wed Sep 15 08:51:25 2021
 �� ǥ��
 # ����
 
@@ -55,8 +55,7 @@ PROGRAMW6432 = C:\Program Files
 # ȯ��
 PROGRAMDATA = C:\ProgramData
 # ȯ��
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-40d959c 
-1-1f7c-4d9b-9dcb-543d8ca9345b-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-2b3c3f5b-f76f-47c0-995b-ac1e988b2015-sock
 # ȯ��
 VSCODE_CWD = C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code
 # ȯ��
@@ -80,7 +79,7 @@ ELECTRON_RUN_AS_NODE = 1
 # �ڵ�
 %F = $(notdir $%)
 # ȯ��
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15560_IOVDMNAFPPLWLJKD
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16568_SHTEUGZSMGBRCDWL
 # ȯ��
 VSCODE_PIPE_LOGGING = true
 # ȯ��
@@ -98,7 +97,7 @@ PUBLIC = C:\Users\Public
 # ȯ��
 VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
 # ȯ��
-VSCODE_CODE_CACHE_PATH = C:\Users\ericw\AppData\Roaming\Code\CachedData\e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff
+VSCODE_CODE_CACHE_PATH = C:\Users\ericw\AppData\Roaming\Code\CachedData\83bd43bc519d15e50c4272c6cf5c1479df196a4d
 # ȯ��
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # ȯ��
@@ -142,7 +141,7 @@ PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
 # ȯ��
 OS = Windows_NT
 # ȯ��
-VSCODE_IPC_HOOK = \\.\pipe\89cce9451ee87d711da293ebe2020774-1.60.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\89cce9451ee87d711da293ebe2020774-1.60.1-main-sock
 # ȯ��
 HOMEPATH = \Users\ericw
 # ȯ��
@@ -161,6 +160,8 @@ SYSTEMROOT = C:\WINDOWS
 +F = $(notdir $+)
 # ȯ��
 APPDATA = C:\Users\ericw\AppData\Roaming
+# ȯ��
+__COMPAT_LAYER = DetectorsAppHealth
 # ȯ��
 TEMP = C:\Users\ericw\AppData\Local\Temp
 # ȯ��
@@ -188,11 +189,11 @@ LANG = C
 # ȯ��
 PROCESSOR_LEVEL = 23
 # ȯ��
-VSCODE_PID = 15560
+VSCODE_PID = 16568
 # ȯ��
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-3USSUI6
 # variable set hash-table stats:
-# Load=89/1024=9%, Rehash=0, Collisions=9/111=8%
+# Load=90/1024=9%, Rehash=0, Collisions=9/112=8%
 
 # Pattern-specific Variable Values
 
@@ -202,7 +203,7 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-3USSUI6
 
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (Ű C:/WINDOWS/System32/WindowsPowerShell/v1.0/, ����ð� 1616148895): 33 ����, 0�� �Ұ���.
 # C:\WINDOWS\System32\Wbem (Ű C:/WINDOWS/System32/Wbem, ����ð� 1629198503): 173 ����, 0�� �Ұ���.
-# . (Ű c:/Users/ericw/Desktop/game2_sdl, ����ð� 1631662614): 6 ����, 0�� �Ұ���.
+# . (Ű c:/Users/ericw/Desktop/game2_sdl, ����ð� 1631663405): 7 ����, 0�� �Ұ���.
 # C:\Users\ericw\AppData\Local\Programs\Python\Python39\ (Ű C:/Users/ericw/AppData/Local/Programs/Python/Python39/, ����ð� 1616728892): 20 ����, 0�� �Ұ���.
 # C:\Users\ericw\AppData\Local\GitHubDesktop\bin (Ű C:/Users/ericw/AppData/Local/GitHubDesktop/bin, ����ð� 1628427462): 4 ����, 0�� �Ұ���.
 # C:\Users\ericw\AppData\Local\Microsoft\WindowsApps (Ű C:/Users/ericw/AppData/Local/Microsoft/WindowsApps, ����ð� 1629332495): 12 ����, 0�� �Ұ���.
@@ -214,19 +215,18 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-3USSUI6
 # C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin (Ű C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin, ����ð� 1631453165): 58 ����, 0�� �Ұ���.
 # C:\Program Files\Git\cmd (Ű C:/Program Files/Git/cmd, ����ð� 1621904111): 8 ����, 0�� �Ұ���.
 # C:\WINDOWS\system32 (Ű C:/WINDOWS/system32, ����ð� 1630654638): 2885 ����, 0�� �Ұ���.
-# C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code\bin (Ű C:/Users/ericw/AppData/Local/Programs/Microsoft VS Code/bin, ����ð� 1630629361): 4 ����, 0�� �Ұ���.
+# C:\Users\ericw\AppData\Local\Programs\Microsoft VS Code\bin (Ű C:/Users/ericw/AppData/Local/Programs/Microsoft VS Code/bin, ����ð� 1631662251): 4 ����, 0�� �Ұ���.
 # C:\Program Files\CMake\bin (Ű C:/Program Files/CMake/bin, ����ð� 1630459288): 8 ����, 0�� �Ұ���.
 # C:\Users\ericw\.dotnet\tools: stat�� �� �� �������ϴ�.
 # C:\Program Files (x86)\GnuWin32\bin (Ű C:/Program Files (x86)/GnuWin32/bin, ����ð� 1631454702): 5 ����, 0�� �Ұ���.
 
-# 3384 ����, 0�� impossibilities in 18 directories.
+# 3385 ����, 0�� impossibilities in 18 directories.
 
 # Implicit Rules
 
 # ������ ��Ģ ����.
 
-# � 
-���
+# ����
 
 all:
 #  ������ Ÿ��.
@@ -275,9 +275,9 @@ makefile:
 # Ÿ���� �ƴ�:
 .SUFFIXES:
 #  ������ ��Ģ Ž���� �Ϸ���� �ʾҽ��ϴ�.
-#  ���� �ð��� ���� �˻���� �ʾ���.
-#  ������ ���ŵ��� �ʾҽ��ϴ� 
-.
+#  ���� �ð��� ���� �˻ 
+���� �ʾ���.
+#  ������ ���ŵ��� �ʾҽ��ϴ�.
 
 # files hash-table stats:
 # Load=4/1024=0%, Rehash=0, Collisions=0/17=0%
@@ -292,6 +292,6 @@ makefile:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# ����ũ ����Ÿ ���̽� ��ħ, Wed Sep 15 08:49:44 2021
+# ����ũ ����Ÿ ���̽� ��ħ, Wed Sep 15 08:51:25 2021
 ����
  

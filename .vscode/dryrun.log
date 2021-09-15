@@ -1,6 +1,5 @@
-make.exe --dry-run --keep-going --print-directory
+make.exe --dry-run --always-make --keep-going --print-directory
 make.exe: Entering directory `c:/Users/ericw/Desktop/game2_sdl'
 g++ -Isrc/Include -Lsrc/lib -o build/game src/source/*.cpp -lmingw32 -lSDL2main -lSDL2 
- 
 make.exe: Leaving directory `c:/Users/ericw/Desktop/game2_sdl'
  
